@@ -108,5 +108,13 @@ main{
 .iphone-icons i{
     color:var(--color-primary);
     font-size:4rem;
-    place-items:center;
 }
+i:nth-child(1){ color:rgb(65, 184, 131);}
+i:nth-child(2){color:rgb(102, 102, 102);}
+i:nth-child(3){color:rgb(52, 73, 94);}
+i:nth-child(4){color:rgb(3, 90, 166);}
+i:nth-child(5){color:rgb(0, 0, 0, .7);}
+i:nth-child(6){color:rgb(69, 161, 241);}
+i:nth-child(7){color:rgb(48, 115, 176);}
+i:nth-child(8){color:rgb(64, 118, 248);}   
+i:nth-child(9){color:rgb(65, 184, 131);}
