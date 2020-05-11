@@ -2,7 +2,7 @@
 This is a replica of Iphone 4 - made using the power of Flex, CSS Grid and Pseudo elements
 #
 
-![Iphone-Replica](iphone.png)
+![Iphone-Replica]('iphone.png')
 
 **Concepts Learned**
 1. `::after` and `::before` *Pseudo elements*
