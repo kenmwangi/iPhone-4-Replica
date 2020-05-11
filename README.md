@@ -1,3 +1,9 @@
 # iPhone-4-Replica
 This is a replica of Iphone 4 - made using the power of Flex, CSS Grid and Pseudo elements
-# Hello
+#
+
+![Iphone-Replica](iphone.png)
+
+**Concepts Learned**
+1. `::after` and `::before` *Pseudo elements*
+2. > Css Grid and Flexbox
