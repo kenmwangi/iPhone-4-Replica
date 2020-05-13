@@ -86,13 +86,7 @@ main {
   bottom: -55px;
   box-shadow: 1px 0px 1px var(--color-white) inset, 1px 0px 1px #eee;
 }
-.phone-inner p {
-  background-color: teal;
-  color: var(--color-white);
-  font-family: "Montserrat", sans-serif;
-  border-radius: 3px;
-  padding: 5px;
-}
+
 .iphone-icons {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
